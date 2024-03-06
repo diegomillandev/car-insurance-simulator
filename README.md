@@ -1,8 +1,9 @@
-# React + Vite
+# Car Insurance Simulator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the Car Insurance Simulator project! This application, built using the Vite framework along with React, allows users to simulate different scenarios and calculate potential insurance costs based on various factors.
 
-Currently, two official plugins are available:
+## Installation
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. Clone the repository:
+
+git clone https://github.com/diegomillandev/car-insurance-simulator.git
