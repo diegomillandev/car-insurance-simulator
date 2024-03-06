@@ -28,8 +28,8 @@ export const Form = () => {
 
         await new Promise((resolve) => setTimeout(resolve, 2000));
         setQuote(quoteSecured(2000, 3));
-        // await new Promise((resolve) => setTimeout(resolve, 6000));
-        // setQuote(0);
+        await new Promise((resolve) => setTimeout(resolve, 6000));
+        setQuote(0);
     };
 
     return (
